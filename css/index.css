@@ -1,0 +1,16 @@
+
+.header{
+    background-image:linear-gradient(rgb(73, 72, 72), rgb(41, 40, 40)), url('../img/hawaii.jpg');
+    background-blend-mode:hard-light;
+    width: 100%;
+    height: 1050px;
+}
+
+.green-button{
+    background-color: #9fc93e;
+    border-color: #9fc93e;
+}
+
+footer{
+    background-color: #1e465f;
+}
