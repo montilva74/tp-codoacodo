@@ -14,3 +14,10 @@
 footer{
     background-color: #1e465f;
 }
+
+.btn-codo{
+    background-color: #97c93e;
+    color: white;
+    width: 98%;
+    margin: 2%;
+  }
